@@ -1,7 +1,7 @@
 
 ### Hi there, I'm DEBDULAL 👋 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm DEBDULAL</h1>
-[![Twitter Follow](https://img.shields.io/twitter/follow/debdulal_with?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdebdulal_with&screen_name=debdulal_with)
+[Twitter Follow](https://img.shields.io/twitter/follow/debdulal_with?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdebdulal_with&screen_name=debdulal_with)
 
 <br>
 <br>
