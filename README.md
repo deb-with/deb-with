@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm DEBDULAL</h1>
-<p align="left"> <a href="https://twitter.com/debdulal_with" target="blank"><img src="https://img.shields.io/twitter/follow/debdulal_with?logo=twitter&style=for-the-badge" alt="debdulal_with" /></a> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deb-with&label=Profile%20views&color=0e75b6&style=flat" alt="deb-with" /> </p>
+<br>
+<p align="center"> <a href="https://twitter.com/debdulal_with" target="blank"><img src="https://img.shields.io/twitter/follow/debdulal_with?logo=twitter&style=for-the-badge" alt="debdulal_with" /></a> </p>
 
 
 <br>
@@ -11,16 +14,15 @@
 - 🌱 I’m currently learning Web Developing, Coding
 - 🥅 2022 Goals: Create more web based projects
 - ⚡ Fun fact: I love to draw and play Volleyball / Carrom Board
-
 <br>
-<br>
-git 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/debdulal_with" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debdulal_with" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debdulal-sau-0946a9201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdulal-sau-0946a9201" height="30" width="40" /></a>
+<a href="https://instagram.com/debdulal_with" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debdulal_with" height="30" width="40" /></a>
+<a href="https://www.facebook.com/debdulal.sau.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debdulal.sau.9" height="30" width="40" /></a>
 
-[<img align="left" alt="debdulal_with | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="debdulal-sau-0946a9201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="debdulal_with | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="debdulal.sau.9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</p>
 
 <br/>
 <br/>
