@@ -8,7 +8,7 @@
 <h3 align="left">I'm a MCA student & web learner from India !!</h3>
 
 
-- 🌱 I’m currently learning Web Development, Coding.
+- 🌱 I’m currently learning Web Development.
 - 🥅 2022 Goals: Create more web based projects.
 - ⚡ Fun fact: I love to draw and play Volleyball / Carrom Board.
 <br>
